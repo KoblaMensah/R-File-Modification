@@ -1,0 +1,1 @@
+fred <- "good student"
